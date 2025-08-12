@@ -58,10 +58,6 @@ Simply open the `index.html` file in your preferred browser.
 * Change **colors, fonts, and animations** in `style.css`.
 * Replace **images and portfolio items** as needed.
 
-## 📸 Preview
-
-*(Add screenshot or GIF here)*
-
 ## 📝 License
 
 This project is open-source and available under the **MIT License**.
